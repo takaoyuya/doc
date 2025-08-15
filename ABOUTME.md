@@ -1,4 +1,4 @@
-# About Me (As of 2024/07)
+# About Me (As of 2025/07)
 エンジニアとして15年の実務経験があり、フロントエンド・バックエンド・データベースの設計・開発・運用まで複数プロジェクトで一気通貫して経験しております。
 これまで様々なプロジェクトやチーム体制を経験しているため、プロジェクトのスタックに関わらず柔軟かつスムーズにキャッチアップしての参画が可能です。
 希望としては設計・開発業務をメインに、要件整理を含めて担当できればと思います。
@@ -21,7 +21,7 @@
   - タスク設計・進捗管理（WBS、定例運営、作業トリアージ）
   - オフショア管理
 
-### Thema
+### Theme
 WEBシステムとモバイルアプリ対象に以下を経験
 - コンシューマ：ECサイト、QR決済アプリ、収支管理アプリ
 - 業務アプリ：勤怠管理アプリ、スケジュール・商談管理アプリ
@@ -89,7 +89,7 @@ Webシステム中心であるが、ネイティブアプリも経験あり
 
   - Fullstack
 
-    <img src="https://img.shields.io/badge/Spring/Spring Batch-EC0000"> <img src="https://img.shields.io/badge/Rails-EC0000"> <img src="https://img.shields.io/badge/NodeJS-EC0000"> <img src="https://img.shields.io/badge/Django-FF9696">
+    <img src="https://img.shields.io/badge/Spring/Spring Batch-EC0000"> <img src="https://img.shields.io/badge/Rails-EC0000"> <img src="https://img.shields.io/badge/NodeJS-EC0000"> <img src="https://img.shields.io/badge/FastAPI-EC0000"> <img src="https://img.shields.io/badge/Django-FF9696">
   - Test
 
     <img src="https://img.shields.io/badge/JUnit-v4-EC0000"> <img src="https://img.shields.io/badge/RSpec-FF9696"> 
@@ -150,7 +150,7 @@ Webシステム中心であるが、ネイティブアプリも経験あり
   - Testing
     - Security（Sast/Dast/Penetration）
 
-      <img src="https://img.shields.io/badge/Fortify-8843E1"> <img src="https://img.shields.io/badge/SonarQube-8843E1"> <img src="https://img.shields.io/badge/ZAP-8843E1">、<img src="https://img.shields.io/badge/KaliLinux -8843E1">
+      <img src="https://img.shields.io/badge/Fortify-8843E1"> <img src="https://img.shields.io/badge/SonarQube-8843E1"> <img src="https://img.shields.io/badge/ZAP-8843E1"> <img src="https://img.shields.io/badge/KaliLinux -8843E1">
     - Performance
 
       <img src="https://img.shields.io/badge/Apache JMeter -8843E1">
@@ -160,12 +160,12 @@ Webシステム中心であるが、ネイティブアプリも経験あり
   - Logging
 
     <img src="https://img.shields.io/badge/Logstash-8843E1"> <img src="https://img.shields.io/badge/log4j-8843E1"> <img src="https://img.shields.io/badge/Fluent Bit（Fluentd）-8843E1">
-  - API Mockup：Postman、Soap UI、Swagger UI
+  - API Mockup
 
-    <img src="https://img.shields.io/badge/Postman-8843E1"> <img src="https://img.shields.io/badge/Soap UI-8843E1"> <img src="https://img.shields.io/badge/Swagger UI-8843E1">
+    <img src="https://img.shields.io/badge/Postman-8843E1"> <img src="https://img.shields.io/badge/Soap UI-8843E1"> <img src="https://img.shields.io/badge/Mockoon-8843E1"> <img src="https://img.shields.io/badge/Bruno-8843E1"> <img src="https://img.shields.io/badge/Swagger UI-8843E1">
 
 - Sass
-  - Monitor：Prometheus、Zabbix、Hinemos、PagerDuty、Sentry、New Relic、Lighthouse
+  - Monitor：
 
     <img src="https://img.shields.io/badge/Prometheus-507500"> <img src="https://img.shields.io/badge/Zabbix-507500"> <img src="https://img.shields.io/badge/Hinemos-507500"> <img src="https://img.shields.io/badge/PagerDuty-507500"> <img src="https://img.shields.io/badge/Datadog-507500"> <img src="https://img.shields.io/badge/New Relic-507500"> <img src="https://img.shields.io/badge/Lighthouse-507500">
   - Visualize
@@ -186,10 +186,10 @@ Webシステム中心であるが、ネイティブアプリも経験あり
   - CDN
 
     <img src="https://img.shields.io/badge/Akamai-507500"> <img src="https://img.shields.io/badge/CloudFlare-507500"> <img src="https://img.shields.io/badge/Netlify-507500"> <img src="https://img.shields.io/badge/Amazon CloudFront-507500">
-  - API Gateway：Kong
+  - API Gateway
 
     <img src="https://img.shields.io/badge/Kong-507500">
-  - CMS：WordPress
+  - CMS
 
     <img src="https://img.shields.io/badge/WordPress-507500">
   - Analytics
@@ -201,7 +201,9 @@ Webシステム中心であるが、ネイティブアプリも経験あり
 
 ### Certification
 - TOEIC：820（2022）
-- AWS Solutions Architect(Associate)：2019年・2023年
-- AWS SysOps Administrator：2019年・2023年
-- AWS Developer：2019年・2023年
-- GCP Professional Cloud Architect：2023年
+- [AWS](https://www.credly.com/users/yuya-takoa/badges#credly)
+  - AWS Solutions Architect(Associate)：2019年・2023年
+  - AWS SysOps Administrator：2019年・2023年
+  - AWS Developer：2019年・2023年
+- [GCP](https://www.credential.net/profile/301488/transcript)
+  - Professional Cloud Architect：2023年
